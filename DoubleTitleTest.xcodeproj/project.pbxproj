@@ -43,6 +43,7 @@
 			children = (
 				8B2102D420537320003440E2 /* DoubleTitleTest */,
 				8B2102D320537320003440E2 /* Products */,
+				8BE38430205411C400AE5D51 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,10 +58,9 @@
 		8B2102D420537320003440E2 /* DoubleTitleTest */ = {
 			isa = PBXGroup;
 			children = (
-				8B2102D720537320003440E2 /* ViewController.swift */,
 				8B2102E720538C00003440E2 /* BKDoubleTitleView.swift */,
+				8B2102D720537320003440E2 /* ViewController.swift */,
 				8B2102D920537320003440E2 /* Main.storyboard */,
-				8BE38430205411C400AE5D51 /* README.md */,
 				8B2102E92053A524003440E2 /* Supporting Files */,
 			);
 			path = DoubleTitleTest;
