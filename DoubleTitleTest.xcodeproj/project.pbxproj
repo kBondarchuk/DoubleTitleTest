@@ -12,6 +12,7 @@
 		8B2102DD20537320003440E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B2102DC20537320003440E2 /* Assets.xcassets */; };
 		8B2102E020537320003440E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2102DE20537320003440E2 /* LaunchScreen.storyboard */; };
 		8B2102E820538C00003440E2 /* BKDoubleTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2102E720538C00003440E2 /* BKDoubleTitleView.swift */; };
+		8BC2B7A4205538FC00EE54E4 /* UINavigationItem+DoubleTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC2B7A3205538FC00EE54E4 /* UINavigationItem+DoubleTitle.swift */; };
 		8BE3842D205404A700AE5D51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2102D920537320003440E2 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		8B2102DC20537320003440E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B2102DF20537320003440E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B2102E720538C00003440E2 /* BKDoubleTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BKDoubleTitleView.swift; sourceTree = "<group>"; };
+		8BC2B7A3205538FC00EE54E4 /* UINavigationItem+DoubleTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UINavigationItem+DoubleTitle.swift"; sourceTree = "<group>"; };
 		8BE3842E2054065400AE5D51 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BE38430205411C400AE5D51 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				8B2102E720538C00003440E2 /* BKDoubleTitleView.swift */,
+				8BC2B7A3205538FC00EE54E4 /* UINavigationItem+DoubleTitle.swift */,
 				8B2102D720537320003440E2 /* ViewController.swift */,
 				8B2102D920537320003440E2 /* Main.storyboard */,
 				8B2102E92053A524003440E2 /* Supporting Files */,
@@ -152,6 +155,7 @@
 			files = (
 				8B2102D820537320003440E2 /* ViewController.swift in Sources */,
 				8B2102D620537320003440E2 /* AppDelegate.swift in Sources */,
+				8BC2B7A4205538FC00EE54E4 /* UINavigationItem+DoubleTitle.swift in Sources */,
 				8B2102E820538C00003440E2 /* BKDoubleTitleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
